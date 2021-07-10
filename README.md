@@ -41,6 +41,9 @@ The winner of the election was:
 
 * Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
+![image](https://user-images.githubusercontent.com/86136535/125178997-1b1c3e80-e1b8-11eb-95a4-b90ecda952e9.png)
+
+
 ## Challenge Overview
 
 In this challenge an employee from the Colorado Board of Elections has requested to have an audit completed of a recent local congressional election. The were five tasks required to support the audit described below:
