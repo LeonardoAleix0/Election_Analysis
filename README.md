@@ -62,4 +62,6 @@ After delivering the first request, a second set of information was required to 
 
 ## Summary
 
+Although this code has been created to complete an audit in a local election, the same structure can be used to analyze more information related to elections. Due to the content of the dataset, the analysis contained in this project is limited. However, adding more data to the dataset and using the same code, we could reveal important data related to the voters. For example, one important information would be the number of votes that each party has received. Acquiring this information may provide a hint in which direction that region is going to vote in the National elections.
+Another example for which this code can be used, is to describe the number of voters based on demographics, understanding the relationship between demographics and candidate/party can reveal the regions or ages that the candidates should focus on their campaign.
 
